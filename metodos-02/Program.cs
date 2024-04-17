@@ -1,16 +1,16 @@
 ﻿using System;
 
-namespace metodos
+namespace conceitos
 {
        class Program 
        {
               static void Main(string[] args)
               {
-
+                     //instanciar um objeto
                      Pessoa obj = new Pessoa();
-                     obj.apresentar();
-                     obj.apresentar("lucas");
-                     obj.apresentar("jose", 256);
+                     obj.nome = "Lucas";
+                     obj.idade = 26;
+                     obj.mensagem();
               }
        }
 }
