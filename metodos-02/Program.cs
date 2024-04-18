@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace conceitos
+namespace exercicioImc
 {
        class Program 
        {
