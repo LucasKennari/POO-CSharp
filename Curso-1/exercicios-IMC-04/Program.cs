@@ -8,9 +8,9 @@ namespace conceitos
               {
                      Pessoa p1 = new Pessoa();
                      
-                     p1.peso = 50;
-                     p1.altura = 1.70;
-
+              // //       p1.Peso = 50;
+              // //       p1.Altura = 1.70;
+                   
                      p1.exibir_msg(); 
               }
        }

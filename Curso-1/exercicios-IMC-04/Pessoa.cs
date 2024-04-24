@@ -2,18 +2,25 @@ using System;
 
 class Pessoa
 {
-       // ATRIBUTOS
-       // nome da pessoa
+       
      
        // peso
-       public double peso,altura;
+       public double Peso {get; private set;}
+       public double Altura {get; private set;}
       
        // METODOS
-
-       //calcular IMC
-       public double imc() // sem parametros
+       public void Altura(double altura)
        {
-              return peso / (altura * altura);
+              Altura = altura;
+       }
+       public void Peso(double peso)
+       {
+              Peso = peso;
+       }
+       //calcular IMC
+       public double imc() // sem parametrosexe
+       {
+              return Peso / (Altura * Altura);
        }
        // retornar resultado
        public string situacao(double imc) // necessario informar a tipagem
