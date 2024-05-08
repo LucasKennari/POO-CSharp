@@ -32,9 +32,10 @@ namespace Propriedades_metodos_contrutores.Models
 
         public void ListarAlunos()
         {
-            foreach (var aluno in Alunos)
+            for (int count = 0; count < Alunos.Count; count++)
             {
-                Console.WriteLine(aluno.NomeCompleto);
+                Console.WriteLine(Alunos[count].NomeCompleto);
+
             }
         }
 
