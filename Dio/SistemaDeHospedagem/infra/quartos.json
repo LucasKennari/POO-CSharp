@@ -1,0 +1,19 @@
+[
+  {
+    "idQuarto": 1,
+    "disponivel": true
+  },
+  {
+    "idQuarto": 2,
+    "disponivel": true
+  },
+  {
+    "idQuarto": 3,
+    "disponivel": true
+  },
+  {
+    "idQuarto": 4,
+    "disponivel": false
+  },
+
+]
