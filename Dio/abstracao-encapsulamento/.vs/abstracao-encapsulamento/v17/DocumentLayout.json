@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\abstracao-encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\abstracao-encapsulamento\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|solutionrelative:models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\abstracao-encapsulamento\\models\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|solutionrelative:models\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\abstracao-encapsulamento\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\abstracao-encapsulamento\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B4E9F6-C76A-4AAF-A8B4-1ED320C9E540}|abstracao-encapsulamento.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\Professor.cs",
+              "RelativeToolTip": "Models\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:59:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:53:45.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:50:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Models\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Models\\ContaCorrente.cs",
+              "RelativeToolTip": "Models\\ContaCorrente.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:48:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\abstracao-encapsulamento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:07:25.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

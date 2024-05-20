@@ -1,8 +1,9 @@
-﻿using System.Runtime.Intrinsics.X86;
+﻿using SistemaDeHospedagem.infra;
+using System.Runtime.Intrinsics.X86;
 
 namespace SistemaDeHospedagem.Models
 {
-    internal class Reserva
+    internal class Reserva 
 
     {
         public Reserva() { }
@@ -18,7 +19,9 @@ namespace SistemaDeHospedagem.Models
         public void CadastrarHospedes(List<Pessoa> hospedes)
         {
             int qtdDeHospedes = hospedes.Count();
+           
 
+           
             Console.WriteLine(Suite);
             if (Suite.Capacidade >= qtdDeHospedes)
             {
@@ -32,7 +35,7 @@ namespace SistemaDeHospedagem.Models
             }
         }
 
-        public void CadastrarSuite(Suite suite)
+        public void CadastrarReserva(Suite suite)
         {
             Suite = suite;
         }

@@ -11,13 +11,11 @@ namespace SistemaDeHospedagem.Models
     internal class Quarto
     {
 
-
         public Quarto()
         {
 
         }
-        //  public List<Quarto> Quartos { get; set; }
-
+       
         [JsonProperty("idQuarto")]
         public int IdDoQuarto { get; set; }
 
@@ -73,15 +71,9 @@ namespace SistemaDeHospedagem.Models
             }
         }
 
-      /*  public List<Quarto> QuartosContext()
-        {
-            string path = @"C:/Users/lucas/OneDrive/Desktop/poo csharp/Dio/SistemaDeHospedagem/infra/quartos.json";
-            string file = File.ReadAllText(path);
-            List<Quarto> todosOsQuartos = JsonConvert.DeserializeObject<List<Quarto>>(file);
-
-            return todosOsQuartos;
-        }*/
+    
     }
 
 }
 
+s

@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\sistemadehospedagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\sistemadehospedagem\\models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\sistemadehospedagem\\infra\\quartocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\infra\\quartocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:infra\\quartocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\sistemadehospedagem\\models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\sistemadehospedagem\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|c:\\users\\lucas\\onedrive\\desktop\\poo csharp\\dio\\sistemadehospedagem\\infra\\quartos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:infra\\quartos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3E5D77-5D00-440F-BC38-8123D97E76AD}|SistemaDeHospedagem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "quartos.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\infra\\quartos.json",
+              "RelativeDocumentMoniker": "infra\\quartos.json",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\infra\\quartos.json",
+              "RelativeToolTip": "infra\\quartos.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T00:20:40.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Suite.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Models\\Suite.cs",
               "RelativeDocumentMoniker": "Models\\Suite.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Models\\Suite.cs",
               "RelativeToolTip": "Models\\Suite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T00:29:25.219Z",
               "EditorCaption": ""
@@ -57,33 +70,20 @@
               "RelativeDocumentMoniker": "Models\\Reserva.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Models\\Reserva.cs",
               "RelativeToolTip": "Models\\Reserva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T00:29:20.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Models\\Pessoa.cs",
-              "RelativeToolTip": "Models\\Pessoa.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T23:56:43.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "QuartoContext.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\infra\\QuartoContext.cs",
               "RelativeDocumentMoniker": "infra\\QuartoContext.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\infra\\QuartoContext.cs",
               "RelativeToolTip": "infra\\QuartoContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T23:43:25.743Z",
               "EditorCaption": ""
@@ -96,20 +96,20 @@
               "RelativeDocumentMoniker": "Models\\Quarto.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Models\\Quarto.cs",
               "RelativeToolTip": "Models\\Quarto.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwEAAAAA8AAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T21:19:05.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\poo csharp\\Dio\\SistemaDeHospedagem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T21:18:07.343Z",
               "EditorCaption": ""

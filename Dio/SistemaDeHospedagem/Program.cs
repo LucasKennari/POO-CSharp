@@ -10,6 +10,7 @@ try
     // quartos.QuartosReservados();
     Console.WriteLine("\n");
     Console.WriteLine("Disponiveis\n");
+
     quartos.QuartosDisponiveis();
 
     List<Pessoa> hospedes = new List<Pessoa>();
@@ -30,7 +31,7 @@ try
 }
 catch (Exception error)
 {
-    Console.WriteLine(error.Message);
+    //Console.WriteLine(error.Message);
 
 }
 
